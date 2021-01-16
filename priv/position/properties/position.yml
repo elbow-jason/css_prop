@@ -1,0 +1,34 @@
+﻿---
+name: position
+
+introduced: CSS2.1
+
+support:
+    firefox: 1
+    safari: 1
+    opera: 4
+    chrome: 1
+    ie: 4
+
+specs:
+    - CSS3
+    - CSS2.1
+
+values:
+    static:
+    relative:
+    absolute:
+    fixed:
+    sticky:
+        introduced: CSS3
+        support: none
+    center:
+        introduced: CSS3
+        support: none
+    page:
+        introduced: CSS3
+        support: none
+    marker:
+        introduced: lists-3
+        support: none
+---

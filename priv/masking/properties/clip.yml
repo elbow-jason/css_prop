@@ -1,0 +1,23 @@
+﻿---
+name: clip
+
+introduced: CSS2.1
+
+support:
+    firefox: 1
+    safari: 1
+    opera: 7
+    chrome: 1
+    ie: 4
+
+specs:
+    - masking-1
+    - CSS2.1
+
+values:
+    rect():
+    auto:
+
+notes:
+    - This property was deprecated in CSS Masking Level 1
+---

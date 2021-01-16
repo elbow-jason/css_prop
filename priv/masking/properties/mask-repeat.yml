@@ -1,0 +1,24 @@
+﻿---
+name: mask-repeat
+
+introduced: masking-1
+
+support:
+    safari: [4]
+    opera: [15]
+    chrome: [1]
+
+specs:
+    - masking-1
+
+values:
+    repeat-x:
+    repeat-y:
+    repeat:
+    space:
+    round:
+    no-repeat:
+
+prefixes:
+    - Safari, Opera, and Chrome require the `-webkit-` prefix.
+---
