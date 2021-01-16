@@ -33,4 +33,9 @@ defmodule CssProp do
     def info(@name), do: @infos
   end
 
+  def info(_) do
+    []
+  end
+
+  def info_map, do: @info_map
 end
